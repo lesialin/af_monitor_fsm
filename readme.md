@@ -1,6 +1,6 @@
 # AF_Monitor FSM Example
 
-This fsm is reference from [State Machine Design in C++](https://www.codeproject.com/Articles/1087619/State-Machine-Design-in-Cplusplus-2)
+This fsm is referenced from [State Machine Design in C++](https://www.codeproject.com/Articles/1087619/State-Machine-Design-in-Cplusplus-2)
 
 run in 30 times:
 ```
